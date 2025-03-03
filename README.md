@@ -16,7 +16,10 @@
 - 🐦 推特动态：[点击关注我的推特](https://x.com/hashlmBrian)
 
 ### 📢 项目合作
-如果您有项目需要自动化交互脚本，欢迎通过推特联系我。我会评估可行性，并上传脚本在电报频道、github。
+如果您有项目需要自动化交互脚本，欢迎通过推特、电报联系我。我会评估可行性，并上传脚本在电报频道、github。
+
+![image](https://github.com/user-attachments/assets/04727838-d8e7-406f-9b04-95ebc35bb856)
+
 
 ---
 Let's make lots of money
